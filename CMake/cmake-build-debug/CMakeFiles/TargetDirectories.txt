@@ -1,0 +1,3 @@
+/Users/alex/CSCI_Projects/CMake/cmake-build-debug/CMakeFiles/CMake.dir
+/Users/alex/CSCI_Projects/CMake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/CSCI_Projects/CMake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
