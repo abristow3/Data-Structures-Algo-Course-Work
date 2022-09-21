@@ -3,4 +3,5 @@ project(CMake)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CMake Bristow_A_9772_L1.cpp)
+add_executable(CMake BagLinked_List.cpp)
+#add_executable(CMake Bristow_A_9772_L1.cpp)
