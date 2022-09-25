@@ -1,3 +1,6 @@
 .idea
 CMake/cmake-build-debug
 CMake/.idea
+.DS_Store
+CMake/.DS_Store
+
