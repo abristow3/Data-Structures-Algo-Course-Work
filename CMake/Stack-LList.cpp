@@ -103,6 +103,11 @@ int main(int argc, const char *argv[]) {
             // if size > 0 then unmatching parenthesis
             } else if (S.getSize() > 0) {
                 cout << "False" << endl;
+                int stack_items =S.getSize();
+                // CLean up the stack for the next input
+                for (int i = 0; i < stack_items; i++){
+                    S.pop();
+                }
             }
         }
     }
