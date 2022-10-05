@@ -77,7 +77,6 @@ void Vector::ListNonZeroes() {
 Vector Vector::operator*(Vector &param) {
     Vector productVector;
     if (size != param.size) cout << "Something is wrong ..." << endl;
-    cout << "Same size vectors found, summing vectors items now..." << endl;
     item *itA = first;
     item *itB = param.getFirst();
 
