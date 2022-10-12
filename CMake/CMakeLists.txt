@@ -3,5 +3,5 @@ project(CMake)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Stack-LList.cpp SparseVectors.cpp)
+add_executable(Stack-LList.cpp SelectionVsInsertion.cpp)
 #add_executable(CMake Bristow_A_9772_L1.cpp)
